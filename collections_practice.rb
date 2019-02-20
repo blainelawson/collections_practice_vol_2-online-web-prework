@@ -126,5 +126,5 @@ def organize_schools(schools_hash)
     result[location] = schools_array
 
   end
-  
+  result
 end
